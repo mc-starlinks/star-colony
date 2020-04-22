@@ -1,0 +1,7 @@
+name: StarColonies
+author: zkingboos_
+description: "Colonies plugin for StarLinks"
+main: com.starlinks.colonies.sdk.ColonyPlugin
+version: 0.0.1-Beta
+softdepend:
+  - StarCore
